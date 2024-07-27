@@ -1,6 +1,6 @@
-<img align="center" src="![AlexColmenar's Stats](https://github-readme-stats.vercel.app/api?username=AlexColmenar&theme=calm&show_icons=true&hide_border=false&count_private=true)">
-<img align="center" src="![AlexColmenar's Streak](https://github-readme-streak-stats.herokuapp.com/?user=AlexColmenar&theme=calm&hide_border=false)">
-<img align="center" src="![AlexColmenar's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AlexColmenar&theme=calm&show_icons=true&hide_border=false&layout=compact)">
+<img align="center" src="!AlexColmenar's Stats https://github-readme-stats.vercel.app/api?username=AlexColmenar&theme=calm&show_icons=true&hide_border=false&count_private=true">
+<img align="center" src="!AlexColmenar's Streak https://github-readme-streak-stats.herokuapp.com/?user=AlexColmenar&theme=calm&hide_border=false">
+<img align="center" src="!AlexColmenar's Top Languages https://github-readme-stats.vercel.app/api/top-langs/?username=AlexColmenar&theme=calm&show_icons=true&hide_border=false&layout=compact">
 
 <!--
 **AlexColmenar/AlexColmenar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
