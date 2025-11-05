@@ -1,5 +1,4 @@
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=AlexColmenar&theme=calm&show_icons=true&hide_border=false&count_private=true">
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=AlexColmenar&theme=calm&hide_border=false">
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlexColmenar&theme=calm&show_icons=true&hide_border=false&layout=compact">
 
 <!--
